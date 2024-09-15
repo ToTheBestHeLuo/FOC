@@ -1,0 +1,11 @@
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\mcTask.c
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcTask.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcVar.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcType.h
+stm32g431rbt6_advanced\mctask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../interface/mcConfig.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcMath.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcParIdentify.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcHVSensorless.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcLVSensorless.h
+stm32g431rbt6_advanced\mctask.o: ..\FOC\source\../include/mcSensor.h

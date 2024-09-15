@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32g4xx_ll_gpio.h": "c",
+        "stm32g4xx_ll_usart.h": "c",
+        "stm32g4xx_ll_tim.h": "c",
+        "mcconfig.h": "c",
+        "mcvar.h": "c",
+        "mctype.h": "c",
+        "usbd_cdc_if.h": "c",
+        "usb_device.h": "c",
+        "usbd_cdc.h": "c",
+        "mchvsensorless.h": "c"
+    }
+}
